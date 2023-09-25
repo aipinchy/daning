@@ -72,3 +72,9 @@ group :test do
 end
 
 gem "font-awesome-sass", "~> 6.4"
+
+gem "devise", "~> 4.9"
+
+gem "pundit", "~> 2.3"
+
+gem "rolify", "~> 6.0"
