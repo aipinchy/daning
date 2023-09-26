@@ -3,3 +3,6 @@ zh-CN:
   layouts:
     admin:
       logout: "退出系统"
+      cancel: "取消"
+      ready_to_leave?: "真的要退出系统吗？"
+      select_logout_below_if_you_are_ready_to_end_your_current_session: "如果您要结束当前的登录请选择下面的“退出系统”。"
