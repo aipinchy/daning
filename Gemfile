@@ -78,3 +78,7 @@ gem "devise", "~> 4.9"
 gem "pundit", "~> 2.3"
 
 gem "rolify", "~> 6.0"
+
+gem "rails-i18n", "~> 7.0"
+
+gem "devise-i18n", "~> 1.11"

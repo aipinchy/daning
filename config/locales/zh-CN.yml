@@ -1,0 +1,5 @@
+zh-CN:
+  #views
+  layouts:
+    admin:
+      logout: "退出系统"
